@@ -1,0 +1,11 @@
+ 
+Admin viewed the an event ID 10. The event name was UTEP Football 10
+ 
+Administrator selected "a"
+System gave information from event id #10 to the Administrator 
+
+Admin viewed the an event ID 71. The event name was UTEP Commencement 3
+ 
+Administrator selected "a"
+System gave information from event id #10 to the Administrator 
+

@@ -1,0 +1,10 @@
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Daniel Mejia
+Event ID: 57
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at General Admission totaling $1186.55 on Nov. 16, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 11/4/23 --- | Taylor Swift Live ( concert Event ) at 8:00 PM | --- $1186.55 --- |
+Confirmation Number: 608902367NM0
+

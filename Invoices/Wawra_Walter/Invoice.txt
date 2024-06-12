@@ -1,0 +1,240 @@
+-------------------------------------------
+| INVOICE RECEIPT #1 | (Event CANCELED)
+Customer: Walter Wawra
+Event ID: 13
+-------------------------------------------
+This confirms your recent payment of 2 ticket(s) at Vip totaling $143.46 on Nov. 18, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 11/27/23 --- | UTEP Football 13 ( sport Event ) at 7:05 PM | --- $143.46 --- |
+Confirmation Number: 534353239NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 2
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 24, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/11/23 --- | UTEP Football 2 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1116805109NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 24, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 24, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 26, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 26, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 26, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 26, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $73.09 on Nov. 26, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961247189NM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Walter Wawra
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at VIP totaling $73.09 on Nov. 26, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $73.09 --- |
+Confirmation Number: 1961246165NM0
+

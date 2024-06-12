@@ -1,0 +1,120 @@
+-------------------------------------------
+| INVOICE RECEIPT #1 | (Event CANCELED)
+Customer: Raul Pallares
+Event ID: 13
+-------------------------------------------
+This confirms your recent payment of 3 ticket(s) at Vip totaling $193.39 on Nov. 18, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 11/27/23 --- | UTEP Football 13 ( sport Event ) at 7:05 PM | --- $193.39 --- |
+Confirmation Number: 1400229130IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 24, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 25, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 26, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 26, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Raul Pallares
+Event ID: 1
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Vip totaling $66.27 on Nov. 26, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 9/4/23 --- | UTEP Football 1 ( sport Event ) at 7:05 PM | --- $66.27 --- |
+Confirmation Number: 1467844216IM0
+

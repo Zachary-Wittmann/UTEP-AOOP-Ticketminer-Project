@@ -1,0 +1,13 @@
+
+ID: 1
+Customer Name: Mickey Mouse
+Customer Username: mickeymouse
+Customer Password: Fun!23
+Available Money: 3662.77
+Tickets Purchased: 4
+Has Membership: true
+Customer payed 4 tickets for $130.93
+EventID: 10
+Event Type: Sport
+ Event Name: UTEP Football 10
+EventTime: 11/6/23 7:05 PM

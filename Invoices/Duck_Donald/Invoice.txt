@@ -1,0 +1,10 @@
+-------------------------------------------
+| INVOICE RECEIPT #1 | (Event CANCELED)
+Customer: Donald Duck
+Event ID: 13
+-------------------------------------------
+This confirms your recent payment of 5 ticket(s) at Silver totaling $257.17 on Nov. 16, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 11/27/23 --- | UTEP Football 13 ( sport Event ) at 7:05 PM | --- $257.17 --- |
+Confirmation Number: 1363651682NM0
+

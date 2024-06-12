@@ -1,0 +1,10 @@
+-------------------------------------------
+| INVOICE RECEIPT #1 |
+Customer: Alireza Nouri
+Event ID: 57
+-------------------------------------------
+This confirms your recent payment of 1 ticket(s) at Silver totaling $4495.19 on Nov. 16, 2023
+| ---- DATE ---- |  ----------- DESCRIPTION ----------- | --- AMOUNT PAID --- |
+| --- 11/4/23 --- | Taylor Swift Live ( concert Event ) at 8:00 PM | --- $4495.19 --- |
+Confirmation Number: 1970215060IM0
+
