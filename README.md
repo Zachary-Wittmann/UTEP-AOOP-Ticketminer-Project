@@ -31,7 +31,7 @@ of Ticketmaster in order to allow a user to "purchase" tickets for various event
 | ExceptionLogger | 🗂️ | Contains exceptions logged as text files during use of the system. |
 | Invoices | 🗂️ | Contains text files that contain invoice information sorted into sub-folders for each user. |
 | doc | 🗂️ | Contains the files created from JavaDoc. |
-| lib | 🗂️ | . |
+| lib | 🗂️ | Contains hamcrest core and junit for testing. |
 | src/main | 🗂️ | Contains all of the .java source code utilized in the project to create the functionality. |
 | test | 🗂️ | Contains .java test files utilized in stress-testing the system. |
 | AOOP Final Presentation | .pptx | The PowerPoint presentation for the project. |
@@ -60,7 +60,8 @@ of Ticketmaster in order to allow a user to "purchase" tickets for various event
   meeting with the group, coming up with designs, and how we can improve on the project where the testing process fell over."<br>- Fernando Remes
 
 
-> "N/A"<br>- Walter Wawra
+> "The Ticketminer project was really helpful for learning to work with a team to design a system. Working with a team is an essential skill in this
+  field and I am glad I had the chance to work alongside other classmates and get a feel for how they work."<br>- Walter Wawra
 
 
 > "This project allowed me to work on a skill that I had hoped to improve over my time at UTEP: collaborative development. I had the opportunity to
