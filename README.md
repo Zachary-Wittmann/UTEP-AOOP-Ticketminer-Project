@@ -51,7 +51,10 @@ of Ticketmaster in order to allow a user to "purchase" tickets for various event
 | README | .md | All of the text that you are currently reading. |
 
 ## Closing Thoughts
-> "N/A"<br>- Raul Pallares
+> "Our TicketMiner project provided a user-friendly interface that focused on processing ticket data for a specified customer(s). This was the first
+  collaborative project I have ever worked on, and it was a good rewarding experience. We overcame any challenges like merging code, refactoring, and
+  critical thinking in a timely and collaborative effort. Working on this project improved my coding, collaboration, and communication skills. This is
+  valuable experience I can take for my future career path."<br>- Raul Pallares
 
 
 > "The Ticketminer brought some rather unique tasks that we never encountered with branching ourselves to the wonders of Advanced Object Orientation.
